@@ -1,4 +1,4 @@
-# $\bf\huge{Gil\ hyun\ ji's\ coding\ practice}$
+# $\bf\huge{Gil\ hyun\ ji}$
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwn1331&count_bg=%23FFD5BC&title_bg=%23FFBE98&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khyunji99&show_icons=true&theme=dracula&title_color=B5DAF5)](https://github.com/anuraghazra/github-readme-stats)
